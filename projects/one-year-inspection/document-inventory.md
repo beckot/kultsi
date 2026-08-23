@@ -145,7 +145,7 @@ Lisäksi muualla Kultarinnantie-aineistossa on rakennuslupapäätös ja energiat
 - [ ] märkätilojen vedeneristysdokumentit / tarkastusmerkinnät / valokuvat
 - [ ] rakentamisen aikaiset kosteus- tai kuivumismittaukset, jos tehty
 - [ ] rakennusluvan edellyttämien vesi-, IV- ja lämmityslaitteiden tarkastusten merkinnät, elleivät jo löydy muusta aineistosta
-- [ ] NIBE S735 + SAM käyttöönotto-/huoltoraportit ja mahdollinen kirjaus aiemmasta äänihäiriöstä
+- [ ] NIBE S735 + SAM -käyttöönotto- tai huoltoraportti. Aiempi matalataajuinen vihellys-/ulvontaääni poistui huoltokäynnin jälkeen, mutta käynnin syy, tehdyt toimenpiteet ja niiden vaikutus eivät ole dokumentoituina.
 
 ## Dokumenttihistorian huomio
 
