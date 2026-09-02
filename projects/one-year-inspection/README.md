@@ -20,7 +20,7 @@ Johtopäätös kirjataan muodossa:
 
 Pelkkä visuaalinen “näyttää hyvältä” ei ole riittävä silloin, kun lähtöarvo tai käyttöönottotulos on olemassa.
 
-## Nykytila 2026-08-23
+## Nykytila 2026-09-02
 
 Puhelimelta löytynyt `Kultsi`-aineistopaketti tuotiin Google Driveen ja järjestettiin Kultarinnantie 20 -pääkansion alle nimellä `Technical Documentation`.
 
@@ -40,6 +40,27 @@ Aineisto muutti aiempaa tilannekuvaa olennaisesti. Nyt löytyvät mm.:
 - kodin käyttö- ja huolto-ohje
 - loppukatselmuspöytäkirjan kopio
 - hallinnanjako- ja kiinteistöasiakirjoja
+
+## Kilpailutus ja nykyinen frontier
+
+Tarjouspyyntö samalla ydinscopella on lähetetty kymmenelle toimijalle.
+
+2026-09-02 mennessä:
+
+- Rakmentor on edelleen tekninen baseline: 2 259 €, kolme asiantuntijaa ja erikseen sovitut rakennus-, LVI/IV- ja sähköpistokokeet
+- Suomen Talokatsastus tarjosi 900 € + matkakulut; rakennustekninen coverage on laaja, mutta IV:n ilmamäärä-/painemittaukset ja sähkötekniset mittaukset puuttuvat tarjouksesta
+- Tayka tarjosi 1 390 €; mukana paine-ero ja näkyvä LVI/sähkö, mutta ilmamäärämittaukset ja sähkötekniset mittaukset puuttuvat
+- Pulkkinen tarjosi 1 290 €; uudisrakentamiskokemus on relevantti, mutta LVIS-osuuksien sisältyminen hintaan on vielä epäselvä
+- A-Insinöörit ja Sweco eivät tee tätä toimeksiantoa suoraan kuluttajalle
+- RAKBEE ei pysty lähiaikoina toteuttamaan kohdetta PK-seudulla
+- JEP, Hirvilammi ja Sustera eivät ole vielä vastanneet
+- Caprin vastaus jäi liian avoimeksi teknisen scopen ja hinnan osalta
+
+Rajatut jatkokysymykset on lähetetty Suomen Talokatsastukselle, Taykalle ja Pulkkiselle.
+
+Apples-to-apples-vertailu ylläpidetään tiedostossa [offer-comparison.md](./offer-comparison.md).
+
+**Nykyinen frontier:** odota vain jo pyydettyjä tarjoustarkennuksia ja puuttuvia vastauksia; lukitse toimittaja vasta, kun halvemman vaihtoehdon mittaava IV/sähkö-coverage on tiedossa. Jos päätös pitäisi tehdä nykyisellä tiedolla, Rakmentor on vahvin tekninen kokonaisuus.
 
 ## Tällä hetkellä tärkeimmät avoimet kysymykset
 
