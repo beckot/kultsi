@@ -1,6 +1,6 @@
 # Dokumentti-inventaario
 
-Tilanne 2026-08-23. Varsinaiset dokumentit säilytetään Google Drivessa hakemistossa `Kultarinnantie 20 / Technical Documentation`.
+Tilanne 2026-09-02. Varsinaiset dokumentit säilytetään Google Drivessa hakemistossa `Kultarinnantie 20 / Technical Documentation`.
 
 ## 01 Architectural Drawings
 
@@ -107,7 +107,7 @@ Löytynyt loppukatselmuspöytäkirjan kopio sisältää:
 
 Varsinaista pöytäkirjan sivua `2 (2)` ei ole vielä löydetty.
 
-Status: **löytynyt mutta näyttää epätäydelliseltä**.
+Status: **löytynyt mutta näyttää epätäydelliseltä**. Drive tarkistettu uudelleen 2026-09-02: nykyinen PDF sisältää edelleen vain allekirjoituskansilehden ja pöytäkirjan sivun `1 (2)`; sivua `2 (2)` ei löytynyt.
 
 ## 05 Materials & Home Manual
 
@@ -145,7 +145,7 @@ Lisäksi muualla Kultarinnantie-aineistossa on rakennuslupapäätös ja energiat
 - [ ] märkätilojen vedeneristysdokumentit / tarkastusmerkinnät / valokuvat
 - [ ] rakentamisen aikaiset kosteus- tai kuivumismittaukset, jos tehty
 - [ ] rakennusluvan edellyttämien vesi-, IV- ja lämmityslaitteiden tarkastusten merkinnät, elleivät jo löydy muusta aineistosta
-- [ ] NIBE S735 + SAM -käyttöönotto- tai huoltoraportti. Aiempi matalataajuinen vihellys-/ulvontaääni poistui huoltokäynnin jälkeen, mutta käynnin syy, tehdyt toimenpiteet ja niiden vaikutus eivät ole dokumentoituina.
+- [ ] NIBE S735 + SAM -käyttöönotto- tai huoltoraportti. Aiempi matalataajuinen vihellys-/ulvontaääni poistui huoltokäynnin jälkeen, mutta käynnin syy, tehdyt toimenpiteet ja niiden vaikutus eivät ole dokumentoituina. Drive-haku 2026-09-02 ei löytänyt erillistä huoltoraporttia.
 
 ## Dokumenttihistorian huomio
 
