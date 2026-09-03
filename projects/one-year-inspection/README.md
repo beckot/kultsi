@@ -20,7 +20,7 @@ Johtopäätös kirjataan muodossa:
 
 Pelkkä visuaalinen “näyttää hyvältä” ei ole riittävä silloin, kun lähtöarvo tai käyttöönottotulos on olemassa.
 
-## Nykytila 2026-09-02
+## Nykytila 2026-09-03
 
 Puhelimelta löytynyt `Kultsi`-aineistopaketti tuotiin Google Driveen ja järjestettiin Kultarinnantie 20 -pääkansion alle nimellä `Technical Documentation`.
 
@@ -48,19 +48,19 @@ Tarjouspyyntö samalla ydinscopella on lähetetty kymmenelle toimijalle.
 2026-09-02 mennessä:
 
 - Rakmentor on edelleen tekninen baseline: 2 259 €, kolme asiantuntijaa ja erikseen sovitut rakennus-, LVI/IV- ja sähköpistokokeet
-- Suomen Talokatsastus tarjosi 900 € + matkakulut; rakennustekninen coverage on laaja, mutta IV:n ilmamäärä-/painemittaukset ja sähkötekniset mittaukset puuttuvat tarjouksesta
+- Suomen Talokatsastus: 900 € + matkakulut; Caire Oy:n IV-pistomittaukset noin 200 € matkakuluineen ja SähköTTV:n sähköpistokokeet arviolta 153 € + matkat. Vertailukelpoinen pohja on siis noin 1 253 € + matkat, mutta sähköscopen tarkka sisältö on vielä vahvistuksessa
 - Tayka tarjosi 1 390 €; mukana paine-ero ja näkyvä LVI/sähkö, mutta ilmamäärämittaukset ja sähkötekniset mittaukset puuttuvat
-- Pulkkinen tarjosi 1 290 €; uudisrakentamiskokemus on relevantti, mutta LVIS-osuuksien sisältyminen hintaan on vielä epäselvä
+- Pulkkinen vahvisti, että 1 290 € kattaa vain rakennustekniikan; LVIS-osuuksia ei tarjota, joten se ei ole full-scope-vaihtoehto
 - A-Insinöörit ja Sweco eivät tee tätä toimeksiantoa suoraan kuluttajalle
 - RAKBEE ei pysty lähiaikoina toteuttamaan kohdetta PK-seudulla
 - JEP, Hirvilammi ja Sustera eivät ole vielä vastanneet
 - Caprin vastaus jäi liian avoimeksi teknisen scopen ja hinnan osalta
 
-Rajatut jatkokysymykset on lähetetty Suomen Talokatsastukselle, Taykalle ja Pulkkiselle.
+Talokatsastukselta saatiin 2026-09-03 IV- ja sähköalihankintaratkaisu. Yksi rajattu tarkennus lähetettiin vielä sähköpistokokeiden täsmällisestä sisällöstä, mitattujen arvojen raportoinnista ja koko paketin loppusummasta. Taykan lisämittausvastaus on edelleen avoin.
 
 Apples-to-apples-vertailu ylläpidetään tiedostossa [offer-comparison.md](./offer-comparison.md).
 
-**Nykyinen frontier:** odota vain jo pyydettyjä tarjoustarkennuksia ja puuttuvia vastauksia; lukitse toimittaja vasta, kun halvemman vaihtoehdon mittaava IV/sähkö-coverage on tiedossa. Jos päätös pitäisi tehdä nykyisellä tiedolla, Rakmentor on vahvin tekninen kokonaisuus.
+**Nykyinen frontier:** Talokatsastus on nyt vahvin value-challenger, mutta voittajaa ei lukita ennen heidän sähköscopen täsmennystä tai Taykan mahdollista lisämittausvastausta. Jos Talokatsastus vahvistaa käyttöönottotesterin, olennaiset keskuksen mittaukset, EV-latausvalmiuden tarkistuksen ja mitattujen arvojen raportoinnin, noin 1 253 € + matkat -pohja haastaa Rakmentorin 2 259 € kokonaisuuden aidosti. Muuten Rakmentor säilyy teknisenä suosituksena.
 
 ## Tällä hetkellä tärkeimmät avoimet kysymykset
 
