@@ -1,6 +1,6 @@
 # Tarjousvertailu — 1-vuotistarkastuksen ennakkotarkastus
 
-Tilanne: 2026-09-03
+Tilanne: 2026-09-04
 
 Tavoite on vertailla tarjouksia sen mukaan, kuinka hyvin ne tuottavat käyttökelpoista näyttöä rakennuttajan 1-vuotistarkastukseen. Pelkkä listahinta tai tavallisen asuntokaupan kuntotarkastuksen laajuus ei ratkaise.
 
@@ -23,72 +23,73 @@ Keskeiset osa-alueet:
 
 | Toimija | Hinta | Tekijät | Rakennus / märkätilat | IV/LVI | Sähkö | Evidence chain / raportointi | Saatavuus | Tila |
 |---|---:|---|---|---|---|---|---|---|
-| Rakmentor | 2 259 € | 3 asiantuntijaa: rakennus, LVI, sähkö | Kyllä, sovittu pistokokeet ja märkätilat | Ilmamäärien pistokokeet, paine-ero, käyttövesi, näkyvät asennukset, lattialämmitys, NIBE/SAM | Käyttöönottotesterin pistokoe, keskuksen mittauksia, merkinnät/suojaukset, EV-latausvalmius | Lähtöaineisto käytettävissä vertailuun; raportti havainnoista. Katselmus on pistokoeluonteinen eikä rakenteita avata. | Syyskuu | **Nykyinen tekninen baseline** |
-| Suomen Talokatsastus | 900 € + matkat + IV n. 200 € + sähkö arviolta 153 € + SähköTTV:n matkat | Matteus Knuuti, rakennusmestari AMK, AKK/FISE; IV Caire Oy; sähkö SähköTTV | Laaja rakennustekninen tarkastus, märkätilat, vesikatto, yläpohja, perustukset, piha | Caire: ilmamäärien pistokokeet, vertailu pöytäkirja-arvoihin ja paine-eron mittaus | SähköTTV: 3 h pistokoetarkastus; tarkka käyttöönottotesteri-/keskus-/EV-latausvalmiusscope vielä vahvistamatta | Suunnitelmiin tutustuminen ja toteuman vertailu; valokuvallinen virhe- ja puutelista. IV/sähköpoikkeamat lisätään puutelistaan; mitattujen arvojen raportointi vielä varmistuksessa | Jo seuraava viikko | **Vahvin value-challenger. Vertailukelpoinen runko noin 1 253 € + matkat, jos sähköscope vahvistuu.** |
-| Tayka | 1 390 € | Juhana Rentola, tarvittaessa Lauri Hämäläinen; RTA-konsultointi tarvittaessa | Kyllä | Paine-ero + näkyvät LVI/käyttövesiasennukset, mutta **ei ilmamäärämittauksia** | Keskus ja asennukset silmämääräisesti, ei sähköteknisiä mittauksia | Kirjallinen PDF; korjausehdotukset/jatkotutkimukset; rakenneavaukset 100 €/kpl ja materiaalinäytteet 150 €/kpl optiona | Syyskuu, mahdollisesti vko 38 | **Hyvä tarkastuspalvelu, mutta ydinevidenssistä puuttuu kaksi mittausosuutta** |
-| Insinööritoimisto Pulkkinen | 1 290 € | Markus Pulkkinen, rakennustekniikan insinööri, noin 15 v uudisrakentamiskokemus | Kyllä; sisältö käytännössä asuntokaupan kuntotarkastuksen tasolla | Ei sisälly; Pulkkinen ei tarjoa LVIS-tarkastusta | Ei sisälly | Rakennustekninen raportointi; ei täyttä evidence chainia talotekniikkaan | Ei ilmoitettu | **Pois full-scope-shortlistilta: 1 290 € kattaa vain rakennustekniikan** |
-| Capri | Ei hintaa | Tuomo Tofferi, DI, rakennusinsinööri AMK, AKK-koulutus | Mahdollinen | Talotekniikan scope jäi heille epäselväksi | Epäselvä | Ei vielä määritelty | Ei ilmoitettu | Ei aktiivinen challenger tällä tiedolla |
+| Rakmentor | 2 259 € | 3 asiantuntijaa: rakennus, LVI, sähkö | Kyllä, sovittu pistokokeet ja märkätilat | Ilmamäärien pistokokeet, paine-ero, käyttövesi, näkyvät asennukset, lattialämmitys, NIBE/SAM | Käyttöönottotesterin pistokoe, keskuksen mittauksia, merkinnät/suojaukset, EV-latausvalmius | Lähtöaineisto käytettävissä vertailuun; raportti havainnoista. Katselmus on pistokoeluonteinen eikä rakenteita avata. | Syyskuu | **Teknisesti varmimmin määritelty baseline** |
+| Suomen Talokatsastus | 900 € + matkat + IV 200 € + sähkö 204 € + SähköTTV:n matkat | Matteus Knuuti, rakennusmestari AMK, AKK/FISE; IV Caire Oy; sähkö SähköTTV | Laaja rakennustekninen tarkastus, märkätilat, vesikatto, yläpohja, perustukset, piha | Caire: ilmamäärien pistokokeet, vertailu pöytäkirja-arvoihin ja paine-eron mittaus. Lämmitys/LVI näkyvin osin Matteuksen rungossa. | SähköTTV: 4 h tarkastus + raportointi. Työaikaa nostettiin nimenomaan pyydetyn käyttöönottotesteri-/keskus-/EV-sisällön läpikäynnin jälkeen, jotta toivotut mittaukset ehditään tehdä ja raportoida. | Suunnitelmiin tutustuminen ja toteuman vertailu; valokuvallinen virhe- ja puutelista. IV/sähköpoikkeamat lisätään listaan. | Jo seuraava viikko | **Nykyinen value-suositus; pohjahinta 1 304 € + kahdet matkakulut** |
+| Tayka | 1 390 € | Juhana Rentola, tarvittaessa Lauri Hämäläinen; RTA-konsultointi tarvittaessa | Kyllä | Paine-ero + näkyvät LVI/käyttövesiasennukset, mutta **ei ilmamäärämittauksia** | Keskus ja asennukset silmämääräisesti, ei sähköteknisiä mittauksia | Kirjallinen PDF; korjausehdotukset/jatkotutkimukset; rakenneavaukset 100 €/kpl ja materiaalinäytteet 150 €/kpl optiona | Syyskuu, mahdollisesti vko 38 | **Hyvä tarkastuspalvelu, mutta ydinevidenssistä puuttuu kaksi mittausosuutta; lisämittauskysymykseen ei vastausta** |
+| Insinööritoimisto Pulkkinen | 1 290 € | Markus Pulkkinen, rakennustekniikan insinööri, noin 15 v uudisrakentamiskokemus | Kyllä; sisältö käytännössä asuntokaupan kuntotarkastuksen tasolla | Ei sisälly; Pulkkinen ei tarjoa LVIS-tarkastusta | Ei sisälly | Rakennustekninen raportointi; ei täyttä evidence chainia talotekniikkaan | Ei ilmoitettu | **Pois full-scope-shortlistilta** |
+| Capri | Ei hintaa | Tuomo Tofferi | Mahdollinen | Talotekniikan scope jäi heille epäselväksi | Epäselvä | Ei vielä määritelty | Ei ilmoitettu | Ei aktiivinen challenger |
 | A-Insinöörit | — | — | — | — | — | Ei palvele kuluttaja-asiakkaita tässä toimeksiannossa | — | Pois vertailusta |
 | Sweco | — | — | — | — | — | Ei tee toimeksiantoa suoraan yksityishenkilölle | — | Pois vertailusta |
 | RAKBEE | — | — | — | — | — | Tekisi vastaavia tarkastuksia, mutta ei pysty lähiaikoina PK-seudulle | — | Pois aikataulusyystä |
-| JEP Tarkastus | — | — | — | — | — | Ei vastausta vielä | — | Odottaa |
-| Hirvilammi | — | — | — | — | — | Ei vastausta vielä | — | Odottaa |
-| Sustera | — | — | — | — | — | Ei vastausta vielä | — | Odottaa |
+| JEP Tarkastus | — | — | — | — | — | Ei vastausta 2026-09-04 mennessä | — | Odottaa |
+| Hirvilammi | — | — | — | — | — | Ei vastausta 2026-09-04 mennessä | — | Odottaa |
+| Sustera | — | — | — | — | — | Ei vastausta 2026-09-04 mennessä | — | Odottaa |
 
-## Julkinen asiakas- ja osaamissignaali
+## Julkinen osaamis- ja asiakassignaali
 
-### Suomen Talokatsastus
+### Suomen Talokatsastus / Matteus Knuuti
 
-- Matteus Knuuti on yrityksen sivujen mukaan rakennusmestari ja AKK/FISE-pätevä.
-- Yrityksellä on erittäin suuri määrä julkista asiakaspalautetta ja yleisesti vahva asiakastyytyväisyyssignaali.
-- Vahvuus tässä casessa on laaja rakennustekninen tarkastus ja selkeä valokuvallinen puutelista.
-- Heikkous nykyisessä tarjouksessa on nimenomaan mittaava talotekniikka.
+- Matteus Knuuti on yrityksen sivujen mukaan rakennusmestari, AKK ja FISE-pätevä.
+- Rakennustekninen scope on laaja: myös vesikatto, yläpohja, perustukset, salaojat/sadevedet ja piha kuuluvat tarjoukseen.
+- Raportointi on valokuvallinen virhe- ja puutelista paikannustietoineen.
 
-### Tayka
+### Caire Oy
 
-- Julkisissa Google-arvosteluissa erittäin vahva signaali: noin 5,0/5 ja noin 30 arviota.
-- Toistuva palaute korostaa perusteellisuutta, ymmärrettävää selittämistä ja valokuvallista raporttia.
-- Nykyinen tarjous on kuitenkin lähempänä perusteellista rakennus-/kosteustarkastusta kuin täyttä LVISA-evidenssipakettia.
+- Yritys tarjoaa nimenomaisesti IV-järjestelmien ilmamäärien mittaus- ja säätötöitä.
+- Julkisen yrityssivun mukaan kokemusta on yli 10 vuotta ja mittaus-/säätötöistä toimitetaan yksityiskohtaisia pöytäkirjoja.
 
-### Insinööritoimisto Pulkkinen
+### SähköTTV
 
-- Julkisissa lähteissä Markus Pulkkisella kuvataan olevan yli 15 vuoden kokemus sekä uudisrakentamisen tuotannon johtotehtäviä.
-- Julkinen arvostelumäärä on pieni, mutta palaute on positiivista.
-- Tekninen fit voi olla hyvä juuri uuden talon virheiden löytämiseen, jos LVIS-osuudet saadaan oikeilta asiantuntijoilta samaan kokonaisuuteen.
+- Julkisten yritystietojen mukaan toimiala on sähköasennus.
+- Urakkamaailmassa 26 tarkistettua arviota, keskiarvo 5,0/5; palautteessa korostuvat asiantuntevuus, aikataulussa pysyminen ja hinta-laatu.
+- Varsinaisen tarkastuksen tekijän nimi/pätevyys ei vielä ole kirjattuna tarjousketjuun; tämä voidaan lukita ajanvarauksen yhteydessä.
 
-## Jatkokysymykset
+### Rakmentor
 
-### Suomen Talokatsastus
+- Rakmentor tarjoaa nimenomaisesti vuositarkastuksen ennakkotarkastuksia ja kertoo kymmenien ennakkotarkastusten kokemuksesta.
+- Selkein vahvuus on yksi koordinoitu rakennus + LVI + sähkö -kokonaisuus ja nimenomainen uudiskohde-/vuositarkastusfit.
 
-2026-09-03 saatu lisäratkaisu:
+## Ratkaisevat erot: Rakmentor vs Suomen Talokatsastus
 
-- Caire Oy: ilmamäärien pistokokeet, vertailu pöytäkirja-arvoihin ja paine-ero, noin 200 € matkakuluineen
-- SähköTTV: sähköasennusten pistokoetarkastus, arvio 3 h × 51 €/h = 153 € + matkakulut
-- molemmat laskuttavat tilaajaa suoraan
-- havaitut poikkeamat lisätään Talokatsastuksen virhe- ja puutelistaan
+### Rakmentorin edut
 
-2026-09-03 lähetetty vielä yksi rajattu tarkennus siitä, kattaako SähköTTV:n 3 h käyttöönottotesterin pistorasiapistokokeen, keskuksen olennaiset mittaukset ja sähköauton latausvalmiuden toteutuksen tarkistuksen, sekä saadaanko mitatut arvot/vertailuarvot raporttiin. Pyydetty samalla arvio koko paketin loppusummasta matkoineen.
+- yksi toimittaja ja yksi koordinoitu kolmen asiantuntijan paketti
+- erillinen LVI-asiantuntija: käyttövesivirtaamat, lattialämmitys, NIBE/SAM ja näkyvät LVI-asennukset on sovittu eksplisiittisemmin
+- nimenomainen vuositarkastuksen ennakkotarkastus on vakiopalvelu ja julkinen track record on selkeä
 
-### Tayka
+### Talokatsastuksen edut
 
-Pyydetty lisähinta / kumppaniratkaisu:
+- pohjahinta 1 304 € + Talokatsastuksen ja SähköTTV:n matkat, eli ennen matkoja 955 € Rakmentoria halvempi
+- rakennustekninen runko on jopa Rakmentorin sovittua listausta laajempi
+- IV:n olennaiset evidenssimittaukset tekee erikoistunut IV-toimija
+- sähkötyöaika nostettiin 3 h → 4 h vasta pyydetyn mittausscopen läpikäynnin jälkeen; tämä on hyvä signaali siitä, ettei scopea yritetä mahduttaa keinotekoisesti liian pieneen tuntimäärään
 
-- IV:n ilmamäärämittauksille
-- sähköteknisille pistomittauksille
-- nykyisten arvojen vertaamiselle alkuperäisiin mittauspöytäkirjoihin
+### Jäljelle jäävä coverage-ero
 
-### Pulkkinen
+Talokatsastuksen kokonaisuus ei ole täysin identtinen Rakmentorin kanssa. Erillistä LVI-asiantuntijaa ei ole nimetty, joten käyttövesivirtaamien mittaus sekä NIBE/SAM- ja lattialämmitysosuuden syvyys jäävät Rakmentoria heikommiksi. Tätä ei pidä peittää hinnan alle.
 
-2026-09-03 vahvistettu, että 1 290 € kattaa vain rakennusteknisen osuuden. Pulkkinen ei tarjoa LVIS-tarkastusta, joten tarjous ei ole apples-to-apples-vaihtoehto Rakmentorille.
+Arvio: tämä ero on todellinen mutta ei tällä hetkellä noin 955 € lisähinnan arvoinen, koska tärkeimmät vaikeasti itse havaittavat evidenssikohdat — rakennus/märkätilat, IV-ilmamäärät/paine-ero ja sähkötekniset pistokokeet — saadaan Talokatsastuksen paketissa katettua.
 
-## Tämänhetkinen johtopäätös
+## Nykyinen suositus
 
-Rakmentor on edelleen teknisesti varmimmin määritelty kokonaisuus: kolme asiantuntijaa, sovitut IV/LVI- ja sähköpistokokeet sekä dokumenttivertailu 2 259 €:lla.
+**Valitse Suomen Talokatsastus / Matteus Knuuti + Caire Oy + SähköTTV**, ellei ajanvarauksen yhteydessä käy ilmi, että sähköauton latausvalmiuden käytännön tarkistus tai mitattujen arvojen raportointi ei oikeasti sisällykään sovittuun 4 tunnin sähköosuuteen.
 
-Suomen Talokatsastus on kuitenkin nyt aidosti vahvin value-challenger. Rakennustekninen runko 900 € + Caire noin 200 € + SähköTTV arviolta 153 € tekee vertailukelpoisen pohjahinnan noin **1 253 € + matkat**. Ero Rakmentoriin on niin suuri, että vaihtoehto kannattaa ottaa vakavasti.
+Ennen vahvistusta lukitaan yhdessä lyhyessä hyväksyntäviestissä:
 
-Ratkaiseva avoin asia on sähkö: jos SähköTTV:n 3 h kattaa käyttöönottotesterin pistokokeen, olennaiset keskuksen mittaukset ja EV-latausvalmiuden käytännön tarkistuksen, ja mitatut arvot saadaan raporttiin/puutelistaan, Talokatsastus voi olla kokonaisuutena paras value.
+1. sama käynti / koordinoitu aikataulu mahdollisuuksien mukaan
+2. SähköTTV:n 4 h sisältää aiemmin pyydetyn käyttöönottotesteri-, keskus- ja EV-latausvalmiusscopen sekä mitattujen arvojen raportoinnin
+3. Caire vertaa pistomittaukset IV-suunnitelmaan ja alkuperäiseen mittauspöytäkirjaan
+4. tekijöiden nimet kirjataan raportteihin
+5. mahdolliset poikkeamat kootaan Matteuksen virhe- ja puutelistaan
 
-Taykan lisämittausratkaisu on edelleen avoin. JEP, Hirvilammi ja Sustera eivät ole vastanneet 2026-09-03 mennessä.
-
-**Nykyinen päätösraja:** älä lukitse toimittajaa ennen Talokatsastuksen sähköscope-vastausta tai Taykan mahdollista vastatarjousta. Jos Talokatsastuksen sähköscope jää epämääräiseksi, Rakmentor säilyy suosituksena.
+Rakmentor jää varavaihtoehdoksi, jos Talokatsastuksen hajautettu toteutus ei saada käytännössä koordinoitua tai sovittu sähköscope muuttuu.
