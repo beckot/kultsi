@@ -20,7 +20,7 @@ Johtopäätös kirjataan muodossa:
 
 Pelkkä visuaalinen “näyttää hyvältä” ei ole riittävä silloin, kun lähtöarvo tai käyttöönottotulos on olemassa.
 
-## Nykytila 2026-09-04
+## Nykytila 2026-09-05
 
 Google Driveen koottu `Technical Documentation` sisältää mm.:
 
@@ -49,24 +49,28 @@ Nykyinen tilanne:
 - Suomen Talokatsastus: Matteus Knuuti 900 € + matkat, Caire Oy:n IV-mittaukset 200 € matkakuluineen ja SähköTTV:n sähköosuus 4 h × 51 € = 204 € + matkat. Pohjahinta **1 304 € + Talokatsastuksen ja SähköTTV:n matkakulut**.
 - Talokatsastus nosti 2026-09-04 SähköTTV:n arvion 3 tunnista 4 tuntiin sen jälkeen, kun käyttöönottotesteri-, keskus-, EV-latausvalmius- ja raportointitarve käytiin heidän kanssaan läpi. Perustelu oli, että toivotut mittaukset varmasti ehditään tehdä ja raportoida.
 - Caire tekee ilmamäärien pistokokeet, vertailun alkuperäisiin pöytäkirja-arvoihin ja paine-eron mittauksen.
-- Tayka 1 390 €; paine-ero ja näkyvä LVI/sähkö mukana, mutta ilmamäärämittaukset ja sähkötekniset mittaukset puuttuvat. Lisämittauskysymykseen ei ole vastattu.
+- Tayka: 1 390 € sisältää nyt myös RTA-henkilön tekemät ilmamäärämittaukset. Juhana Rentola etsii vielä sähköurakoitsijaa toivottuihin sähköteknisiin mittauksiin ja palaa erillisellä hinta-arviolla. Tayka on siten aito kakkoshaastaja, mutta sähköscope ja lopullinen hinta ovat vielä auki.
 - Pulkkinen 1 290 € vain rakennustekniikasta; ei LVIS-osuutta.
 - A-Insinöörit ja Sweco eivät tee toimeksiantoa suoraan kuluttajalle.
 - RAKBEE ei pysty lähiaikoina toteuttamaan kohdetta PK-seudulla.
-- JEP, Hirvilammi ja Sustera eivät ole vastanneet 2026-09-04 mennessä.
+- JEP, Hirvilammi ja Sustera eivät ole vastanneet 2026-09-05 mennessä.
 - Caprin vastaus jäi liian avoimeksi scopen ja hinnan osalta.
 
-Apples-to-apples-vertailu ylläpidetään tiedostossa [offer-comparison.md](./offer-comparison.md).
+Apples-to-apples-vertailu: [offer-comparison.md](./offer-comparison.md).
+
+Konkreettinen etenemisjärjestys ja päätöslogiikka: [next-actions.md](./next-actions.md).
 
 **Nykyinen suositus:** Suomen Talokatsastus + Caire + SähköTTV on paras value. Rakmentor on edelleen teknisesti vahvempi erityisesti erillisen LVI-asiantuntijan, NIBE/lattialämmitys-/käyttövesiosuuden ja yhden koordinoidun toimittajan vuoksi, mutta noin 955 € hintaero ennen matkoja ei tämänhetkisellä tiedolla ole perusteltu.
 
-**Seuraava HITL:** valitse, lukitaanko Talokatsastus. Jos kyllä, lähetetään yksi lyhyt hyväksyntäviesti, jossa samalla vahvistetaan tekijöiden nimet, koordinoitu aikataulu, SähköTTV:n aiemmin pyydetty käyttöönottotesteri-/keskus-/EV-scope ja mitattujen arvojen raportointi sekä Caire-vertailu alkuperäisiin IV-arvoihin.
+Taykan uusi IV-vahvistus parantaa tarjousta olennaisesti, mutta päätöstä ei pidä jäädä odottamaan määräämättömäksi ajaksi. Jos Tayka toimittaa sähköurakoitsijan, täsmällisen mittausscopen ja kokonaishinnan ennen Talokatsastuksen lukitusta, tehdään yksi viimeinen apples-to-apples-vertailu. Muuten edetään Talokatsastuksen kanssa.
+
+**Seuraava HITL:** lukitse Talokatsastuksen scope ja tarkastuspäivä. Jos Taykan sähköpaketti ehtii ennen lukitusta, tee vain yksi viimeinen vertailu eikä uutta kilpailutuskierrosta.
 
 ## Tällä hetkellä tärkeimmät avoimet kysymykset
 
 ### P0 — toimittajan valinta ja tarkastuksen lukitus
 
-Suomen Talokatsastus on nykyinen value-suositus. Rakmentor on varavaihtoehto, jos hajautettua Talokatsastus + Caire + SähköTTV -toteutusta ei saada koordinoitua tai sovittu sähköscope muuttuu.
+Suomen Talokatsastus on nykyinen value-suositus. Tayka on kakkoshaastaja niin kauan kuin sähköosuus on avoin. Rakmentor on varavaihtoehto, jos hajautettua Talokatsastus + Caire + SähköTTV -toteutusta ei saada koordinoitua tai sovittu sähköscope muuttuu.
 
 **Exit:** toimittaja valittu, scope lukittu kirjallisesti, päivä sovittu ja A-talon relevantti lähtöaineisto toimitettu.
 
