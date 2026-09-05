@@ -2,140 +2,93 @@
 
 Tilanne: 2026-09-05
 
-Tämän tiedoston tarkoitus on muuttaa tarjousvertailu konkreettiseksi etenemisjärjestykseksi. Tavoite ei ole jatkaa kilpailutusta avoimena, vaan lukita riittävän hyvä toimittaja ja tehdä tarkastuksesta mahdollisimman evidenssituottava tapahtuma.
+## Active frontier
 
-## Suositus nyt
+**Toimittajan lukitus ei ole vielä seuraava HITL.**
 
-**Ykkössuositus: Suomen Talokatsastus + Caire Oy + SähköTTV.**
+Kotitalouden päätössanity-check nosti ennen varausta viisi tarkistettavaa asiaa. Ne on avattu erilliseksi side questiksi:
 
-Peruste:
+[sidequest-vendor-due-diligence.md](./sidequest-vendor-due-diligence.md)
 
-- rakennustekninen tarkastus on laaja ja sopii hyvin vuositarkastuksen ennakkotarkastukseen
-- Caire tekee puuttuneen IV-evidenssin: ilmamäärien pistokokeet, vertailun alkuperäisiin mittausarvoihin ja paine-eron
-- SähköTTV:n työaika nostettiin 4 tuntiin sen jälkeen, kun pyydetty käyttöönottotesteri-, keskus-, EV-latausvalmius- ja raportointisisältö käytiin läpi
-- pohjahinta 1 304 € + Talokatsastuksen ja SähköTTV:n matkakulut on edelleen selvästi alle Rakmentorin 2 259 €
-- Rakmentorin lisäarvo on todellinen mutta ei tällä hetkellä noin 955 € lisähinnan arvoinen
+Pääpolku on nyt:
 
-## Päätöslogiikka
+`offer comparison → vendor due diligence side quest → recommendation refresh → HITL vendor lock → booking → evidence preparation`
 
-### A. Jos Talokatsastus vahvistaa scopen sellaisena kuin se on nyt ymmärretty
+Nykyinen ykkössuositus pysyy hypoteesina side questin ajan:
 
-→ **lukitse Talokatsastus.**
+**Suomen Talokatsastus + Caire Oy + SähköTTV**
 
-Älä avaa enää uutta kilpailutuskierrosta.
+Rakmentor on tekninen fallback. Tayka on aktiivinen challenger, koska heidän RTA-henkilönsä voi tehdä ilmamäärämittaukset alkuperäiseen 1 390 € hintaan; sähköosuuden tekijä ja hinta ovat vielä avoinna.
 
-### B. Jos Tayka toimittaa ennen lukitusta sähköurakoitsijan ja täsmällisen hinnan
+## NOW — side quest
 
-Tee vain yksi viimeinen apples-to-apples-vertailu näillä kriteereillä:
+Selvitä ennen toimittajapäätöstä:
 
-1. sisältyykö käyttöönottotesterillä tehtävä sähköpistokoe
-2. sisältyvätkö olennaiset keskuksen mittaukset
-3. tarkistetaanko sähköauton latausvalmiuden todellinen toteutus
-4. kirjataanko mitatut arvot ja vertailuarvot raporttiin
-5. kuka sähköosuuden tekee ja millä pätevyydellä
-6. mikä on lopullinen kokonaishinta
+1. **toimijariskit** — Talokatsastus, Caire ja SähköTTV
+2. **referenssit ja pätevyydet** — riittääkö näyttö juuri tähän toimeksiantoon
+3. **taloudellinen tilanne** — onko toimitus-/jatkuvuusriskiä
+4. **modulaarisuus** — voiko kolmen yrityksen paketista toteuttaa tarvittaessa vain 1/3 tai 2/3 ilman lock-inia, merkittävää lisäkustannusta tai evidenssin hajoamista
+5. **matkakulut** — todellinen all-in-hinta ja kuinka paljon hintaetua Rakmentoriin jää
 
-Taykan etu on nyt se, että ilmamäärämittaukset sisältyvät jo 1 390 € hintaan RTA-henkilön tekemänä. Sähkö on ainoa merkittävä avoin osa.
+Side questin yksityiskohtainen DoD ja päätöslogiikka ovat omassa tiedostossaan.
 
-Jos Taykan sähköpaketti nostaa hinnan selvästi Talokatsastuksen kokonaisuuden yli ilman parempaa coveragea, älä vaihda.
+**Exit:** yksi päätösrivi:
 
-### C. Jos Talokatsastuksen sähköscope osoittautuu olennaisesti oletettua suppeammaksi
+> `riskit | referenssit | talous | modulaarisuus | all-in-hinta → suositus`
 
-→ **palaa Rakmentoriin.**
+## BLOCKED — toimittajan lukitus
 
-Rakmentor on edelleen teknisesti varmimmin määritelty kokonaisuus ja paras varavaihtoehto, jos hajautetun Talokatsastus + Caire + SähköTTV -mallin koordinointi tai sähköscope ei toteudu.
+Älä varaa Talokatsastusta, Rakmentoria tai Taykaa ennen side questin valmistumista.
 
-## P0 — lukitse toimittaja
+Kun side quest on valmis:
 
-Seuraavan hyväksyntäviestin pitää vahvistaa kirjallisesti vain nämä asiat:
+### Jos Talokatsastus säilyy GREEN
 
-- Talokatsastus, Caire ja SähköTTV saadaan mahdollisuuksien mukaan samalle tai koordinoidulle käynnille
+Lukitse kirjallisesti:
+
+- Talokatsastus, Caire ja SähköTTV samalle tai koordinoidulle käynnille mahdollisuuksien mukaan
 - SähköTTV:n 4 h sisältää aiemmin pyydetyn käyttöönottotesteri-/keskus-/EV-latausvalmiusscopen
 - sähkömittauksista kirjataan mitatut arvot ja vertailuarvot niiltä osin kuin niitä mitataan
 - Caire vertaa ilmamäärien pistokokeet IV-suunnitelmaan ja alkuperäiseen ilmamäärämittaukseen
 - tekijöiden nimet näkyvät raporteissa
-- havaitut poikkeamat kootaan yhteen Matteuksen virhe- ja puutelistaan tai muuten selkeästi yhteen toimituspakettiin
+- havaitut poikkeamat saadaan yhdeksi rakennuttajalle käyttökelpoiseksi paketiksi
 
-**Exit:** toimittaja vahvistettu, tekijät nimetty, scope lukittu ja tarkastuspäivä sovittu.
+### Jos Talokatsastus muuttuu AMBER
 
-## P0 — valmistele A-talon aineisto tarkastajille
+Tee vain side questin osoittama rajattu lisävahvistus. Älä avaa kilpailutusta uudelleen.
 
-Toimita vain tarkastuksen kannalta relevantti A-talon aineisto, ei koko Drivea.
+### Jos Talokatsastus muuttuu RED
 
-Suositeltu paketti:
+Vertaa Rakmentoria ja Taykan mahdollista valmistunutta sähköpakettia.
 
-- A-talon IV-suunnitelmat
-- alkuperäinen A-talon ilmamäärämittaus
-- A-talon sähkösuunnitelma
-- A-talon sähkön käyttöönottotarkastuspöytäkirja
+## AFTER VENDOR LOCK — A-talon evidence pack
+
+Toimita vain tarkastuksen kannalta relevantti A-talon aineisto:
+
+- IV-suunnitelmat
+- alkuperäinen ilmamäärämittaus
+- sähkösuunnitelma
+- sähkön käyttöönottotarkastuspöytäkirja
 - vesi-/viemärisuunnitelma
 - lämpöjohtosuunnitelma
 - lattialämmityssuunnitelmat ja laskelma
 - rakennustapaselostus
 - tiiveysmittausraportti
 - painekoepöytäkirjat
-- loppukatselmuspöytäkirja nykyisessä muodossaan, selvästi merkiten että sivu 2 (2) puuttuu jos sitä ei ole siihen mennessä löytynyt
+- loppukatselmuspöytäkirja nykyisessä muodossaan; merkitse puuttuva sivu 2 (2), jos sitä ei ole löytynyt
 
-Älä lähetä turhaa materiaalia, joka vaikeuttaa olennaisen löytämistä.
+Yhteinen evidenssiperiaate:
 
-## P0 — määritä tarkastuksen evidenssiformaatti
+> **suunnitelma → käyttöönotto-/mittaustulos → nykyinen pistokoe → johtopäätös**
 
-Tarkastajille annetaan yksi yhteinen periaate:
+Poikkeamista pyydetään mahdollisuuksien mukaan sijainti, havainto, mitattu arvo, vertailuarvo, johtopäätös, merkitys, suositeltu toimenpide ja kuva.
 
-> suunnitelma → käyttöönotto-/mittaustulos → nykyinen pistokoe → johtopäätös
+## Parallel P1 — dokumenttiaukko
 
-Raporttiin pyydetään poikkeamista mahdollisuuksien mukaan:
+Loppukatselmuspöytäkirjan sivu `2 (2)` on edelleen relevantti aukko.
 
-- sijainti
-- havainto
-- mitattu arvo
-- vertailuarvo / suunnitelmaviite
-- johtopäätös
-- merkitys
-- suositeltu korjaus tai lisäselvitys
-- kuva
+**Exit:** sivu on saatu tai on varmistettu, ettei muuta sivua ole saatavissa; mahdolliset ehdot tai huomautukset viedään tarkastusbriefiin ennen käyntiä.
 
-Tämä on tärkeämpää kuin raportin pituus.
+## Do not reopen
 
-## P1 — pidä LVI-coverage tietoisena kompromissina
-
-Talokatsastuspaketin heikoin kohta suhteessa Rakmentoriin on erillisen LVI-asiantuntijan puuttuminen.
-
-Siksi tarkastuksessa pitää erityisesti varmistaa, että ainakin nämä eivät jää kokonaan väliin:
-
-- käyttövesiasennusten näkyvät puutteet
-- lattialämmityksen jakotukit, toimilaitteet ja näkyvät poikkeamat
-- NIBE S735 + SAM:n nykyiset asetukset ja näkyvä toiminta järkevässä laajuudessa
-- aiempi ulina/vihellyshavainto kirjataan historiatietona, ei oletettuna vikana
-
-Jos näihin ei saada valitulta paketilta käytännössä mitään coveragea, harkitse erillistä rajattua LVI-tarkastusta vain näihin kohtiin. Älä automaattisesti osta koko Rakmentor-pakettia tämän takia.
-
-## P1 — hae puuttuva loppukatselmuspöytäkirjan sivu 2 (2)
-
-Tämä on edelleen relevantti dokumenttiaukko.
-
-**Exit:** sivu 2 (2) on saatu tai on varmistettu, ettei muuta sivua ole saatavissa. Mahdolliset ehdot tai huomautukset viedään tarkastusbriefiin ennen käyntiä.
-
-## P2 — älä käytä enää aikaa heikkoihin tarjoajiin
-
-Nykyisellä tiedolla ei ole syytä aktiivisesti jahdata:
-
-- Pulkkista: vain rakennustekniikka
-- Capria: scope jäi liian avoimeksi
-- A-Insinöörejä ja Swecoa: eivät palvele tätä kuluttajatoimeksiantoa
-- RAKBEEtä: aikataulu ei sovi
-
-JEP, Hirvilammi ja Sustera voidaan huomioida vain, jos heiltä tulee oma-aloitteisesti selvästi kilpailukykyinen tarjous ennen toimittajan lukitusta. Heitä ei tarvitse enää aktiivisesti jahdata.
-
-## Lopullinen päätösraja
-
-Älä optimoi viimeisiä satoja euroja niin pitkään, että tarkastus viivästyy tai saatavuus heikkenee.
-
-Tällä hetkellä järkevä eteneminen on:
-
-1. lukitse Talokatsastuksen scope kirjallisesti
-2. jos Taykan sähköpaketti ehtii ennen lukitusta, tee yksi viimeinen vertailu
-3. valitse ja sovi päivä
-4. toimita rajattu A-talon aineisto
-5. tee käynnistä evidenssituottava tarkastus, ei pelkkä yleinen katselmus
-6. käytä raporttia suoraan rakennuttajan 1-vuotistarkastuksen virhe- ja puutelistana / tausta-aineistona
+Älä käytä aikaa Pulkkiseen, Capriin, A-Insinööreihin, Swecoon tai RAKBEEhen nykyisellä tiedolla. JEP, Hirvilammi ja Sustera huomioidaan vain, jos heiltä tulee oma-aloitteisesti selvästi kilpailukykyinen tarjous ennen lukitusta.
